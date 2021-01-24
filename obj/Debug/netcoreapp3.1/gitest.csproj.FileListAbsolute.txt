@@ -1,0 +1,13 @@
+C:\Users\halk2\source\repos\gitest\bin\Debug\netcoreapp3.1\gitest.exe
+C:\Users\halk2\source\repos\gitest\bin\Debug\netcoreapp3.1\gitest.deps.json
+C:\Users\halk2\source\repos\gitest\bin\Debug\netcoreapp3.1\gitest.runtimeconfig.json
+C:\Users\halk2\source\repos\gitest\bin\Debug\netcoreapp3.1\gitest.runtimeconfig.dev.json
+C:\Users\halk2\source\repos\gitest\bin\Debug\netcoreapp3.1\gitest.dll
+C:\Users\halk2\source\repos\gitest\bin\Debug\netcoreapp3.1\gitest.pdb
+C:\Users\halk2\source\repos\gitest\obj\Debug\netcoreapp3.1\gitest.csprojAssemblyReference.cache
+C:\Users\halk2\source\repos\gitest\obj\Debug\netcoreapp3.1\gitest.AssemblyInfoInputs.cache
+C:\Users\halk2\source\repos\gitest\obj\Debug\netcoreapp3.1\gitest.AssemblyInfo.cs
+C:\Users\halk2\source\repos\gitest\obj\Debug\netcoreapp3.1\gitest.csproj.CoreCompileInputs.cache
+C:\Users\halk2\source\repos\gitest\obj\Debug\netcoreapp3.1\gitest.dll
+C:\Users\halk2\source\repos\gitest\obj\Debug\netcoreapp3.1\gitest.pdb
+C:\Users\halk2\source\repos\gitest\obj\Debug\netcoreapp3.1\gitest.genruntimeconfig.cache

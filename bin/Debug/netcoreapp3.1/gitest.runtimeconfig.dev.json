@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\halk2\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\halk2\\.nuget\\packages"
+    ]
+  }
+}
