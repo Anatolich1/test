@@ -8,6 +8,11 @@ namespace gitest
         {
             Console.WriteLine("Hello World!");
             Console.Beep(1500, 3000);
+            Console.Beep(1500, 3000);
+
+            Console.Beep(1500, 3000); Console.Beep(1500, 3000);
+
+            Console.Beep(1500, 3000);
         }
     }
 }
