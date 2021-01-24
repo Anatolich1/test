@@ -7,6 +7,7 @@ namespace gitest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.Beep(1500, 3000);
         }
     }
 }
